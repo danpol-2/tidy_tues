@@ -1,0 +1,18 @@
+post:
+
+Tidy Tuesday 4/1:\n
+
+First attempt at Tidy Tuesday, a simple graph as a warmup while procrastinating my exam :) Dim reduction with tSNE + simple ggplot.\n
+
+Credit to https://emilhvitfeldt.com/post/fun-feature-engineering-pokemon/ as a resource for pulling .pngs.\n
+
+comment:
+
+What I learned this challenge:\n\n
+
+- how to download images from the internet in R to plot\n
+- how to post to Bluesky from R & other basic BS functionalities\n
+- R functions: walk2 (walk, map), download.file, slowly, path\n
+- tSNE in R
+
+post link: https://bsky.app/profile/danpol2.bsky.social/post/3lm6kjyioau2s
