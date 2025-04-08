@@ -1,0 +1,4 @@
+
+learned so far:
+- functions: str_detect(), rank()
+- heat maps in ggplot (a refresher)
