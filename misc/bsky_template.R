@@ -7,8 +7,6 @@
 
 pacman::p_load(bskyr)
 
-set_bluesky_user('danpol2.bsky.social')
-set_bluesky_pass('4wwe-wokr-evua-xk3f')
 
 # examples --------------------------------------------------------------------
 
