@@ -2,3 +2,5 @@
 learned so far:
 - functions: str_detect(), rank()
 - heat maps in ggplot (a refresher)
+- legend formatting (guides, positioning)
+- could not figure out how to put legend and title on the same row :()
